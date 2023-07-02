@@ -24,6 +24,7 @@ earlier:
 mlagents-learn config/ppo/rollerball_config.yaml --force
 mlagents-learn config/ppo/rollerball_config.yaml --run-id=RollerBall
 
+Unity mlagents reference:
 @article{juliani2020,
   title={Unity: A general platform for intelligent agents},
   author={Juliani, Arthur and Berges, Vincent-Pierre and Teng, Ervin and Cohen, Andrew and Harper, Jonathan and Elion, Chris and Goy, Chris and Gao, Yuan and Henry, Hunter and Mattar, Marwan and Lange, Danny},
