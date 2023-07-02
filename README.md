@@ -1,4 +1,4 @@
-# AI-Dissertation
+# AI-Dissertation-Code
 My Computer Science Dissertation
 The project will already have neural networks attached so you can just go ahead and press play, but if you wish to see what 
 training looks like, or create new trained neural network files go through these steps/commands in a command line then press play.
