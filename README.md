@@ -2,6 +2,7 @@
 My Computer Science Dissertation
 The project will already have neural networks attached so you can just go ahead and press play, but if you wish to see what 
 training looks like, or create new trained neural network files go through these steps/commands in a command line then press play.
+Please let me know if you have issues importing/running the project that aren't performance based!
 
 Firstly change directory to project directory (this example uses my project directory, so keep yours in mind for the steps):
 cd D:\Documents\My project (1)\
